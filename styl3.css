@@ -12,7 +12,6 @@ body{
 #artykol{
     width: 70%;
     float: left;
-    margin-right:7%;
 }
 .button{
     background-color:#D81B60;
@@ -32,7 +31,7 @@ body{
     margin: 5px;
     padding: 10px;
     box-shadow: 15px 15px 12px DimGray;
-    float: left;
+    float: right;
 }
 h5,p{
     font-style: italic;
